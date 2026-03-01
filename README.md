@@ -94,6 +94,10 @@ python 1.py
 
 ![边缘分割结果](images/segmentation_result.png)
 
+### 输入与输出对比
+
+![输入输出对比](images/input_output_comparison.png)
+
 ## 适用场景
 
 - 图像边缘检测与提取
