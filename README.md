@@ -120,6 +120,6 @@ python 1.py
 
 本项目基于 [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) 修改开发。
 
-## License
+## 许可证
 
 GPL-3.0 License
