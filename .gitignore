@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+venv/
+env/
+.venv/
+
+# PyTorch model weights
+checkpoints/
+*.pth
+*.pt
+*.onnx
+
+# Data
+data/
+JPEGImages/
+SegmentationClass/
+
+# Output
+output.png
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
