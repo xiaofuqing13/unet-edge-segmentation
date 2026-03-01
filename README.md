@@ -90,6 +90,10 @@ python 1.py
 └── LICENSE               # GPL-3.0 开源协议
 ```
 
+## 分割效果展示
+
+![边缘分割结果](images/segmentation_result.png)
+
 ## 适用场景
 
 - 图像边缘检测与提取
