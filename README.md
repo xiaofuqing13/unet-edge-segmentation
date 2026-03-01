@@ -1,5 +1,8 @@
 # U-Net 图像边缘分割
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
+
+
 基于 PyTorch 实现的 U-Net 语义分割网络，用于图像边缘检测与分割任务。在 [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) 基础上进行修改，适配自定义数据集进行边缘分割训练与推理。
 
 ## 项目目的
